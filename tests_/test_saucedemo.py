@@ -9,7 +9,3 @@ def test_login(_drivers):
     login_obj.login_button()
     login_obj.verify_login()
 
-
-
-
-
